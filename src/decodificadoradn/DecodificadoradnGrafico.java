@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
 
 public class DecodificadoradnGrafico {
  
-    String adn1;
+   String adn1;
    String adn2;
    String bases = "";
    
